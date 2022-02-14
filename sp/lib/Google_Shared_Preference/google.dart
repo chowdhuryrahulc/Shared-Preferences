@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:sp/dashboard.dart';
+import 'package:sp/Google_Shared_Preference/dashboard.dart';
 
 GoogleSignInAccount? A;
 GoogleSignIn sign = GoogleSignIn();

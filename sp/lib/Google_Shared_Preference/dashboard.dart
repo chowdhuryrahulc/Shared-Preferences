@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:sp/myloginpage.dart';
-import 'main.dart';
+import 'package:sp/Google_Shared_Preference/myloginpage.dart';
+import '../main.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 // class MainPage extends StatelessWidget {
